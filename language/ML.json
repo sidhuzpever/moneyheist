@@ -14,7 +14,7 @@
         "_plugin": {
             "INSTALL_DESC": "exetrnal plugins install cheyaan.",
             "NEED_URL": "oru url venam! Example:",
-            "INVALID_URL": "```valid aayitt ulla oru url theru!```",
+            "INVALID_URL": "```ee url valid alla😕!```",
             "INVALID_PLUGIN": "*❌ ningall thanna plugin invalid aan!*\n*Error:*",
             "INSTALLED": "*✅ Plugin install cheythu!*",
             "PLUGIN_DESC": "ningal instal cheytha plugins kaanikkum.",
@@ -26,27 +26,27 @@
             "DELETED": "*✅ module delete aaki!*"
         },
         "admin": {
-            "BAN_DESC": "groupil nin arellum porth akaan. ayallude messagin reply cheyu allenkill tag cheyyu.",
+            "BAN_DESC": "groupil ninnum purathakkan😏. ayallude messagin reply cheyyu.",
             "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
             "BANNED": "Mwonu Ok Bie!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "groupilott keteekn!",
-            "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
+            "ALREADY_PROMOTED": "```Avan admin anu nenpa🙂```",
             "PROMOTED": "```admin aakki..!```",
             "PROMOTE_DESC": "oralle admin akkaan.",
-            "DEMOTE_DESC": "admin sthanam edth kalaayan.",
-            "ALREADY_NOT_ADMIN": "```admine njan engane veendum admin aakkum?```",
+            "DEMOTE_DESC": "admin sthanam mattan.",
+            "ALREADY_NOT_ADMIN": "```admine njan engane veendum admin aakkum?😂```",
             "DEMOTED": "```, ivante admin sthanam onn mateekn!```",
             "MUTE_DESC": "group messaging admin mathram akaan.",
             "MUTED": "```admin only aakki!```",
-            "UNMUTE_DESC": "aarkum message ayaan, admin only allathe akkan.",
+            "UNMUTE_DESC": "aarkum message ayakkan, admin only mattan.",
             "UNMUTED": "```admin only allathe akeett und!```",
             "INVITE_DESC": "groupilikk kshennikaan ulla linkin aayitt.",
             "INVITE": "```kshana kath..😉: ```"
         },
         "locate": {
-            "L_DESC": "location ayach therum.",
+            "L_DESC": "Ruby ninghalude location ayach therum.",
             "L_WARN": "location on aan enn orapp verthugga!"
         },
         "afk": {
@@ -73,9 +73,9 @@
         },
         "heroku": {
             "RESTART_DESC": "\nRestart pinkymwol\n",
-            "RESTART_MSG": "```punararambikkunu...```",
+            "RESTART_MSG": "```ruby restart aakunnu😅...```",
             "SHUTDOWN_DESC": "\nShutdown pinkymwol\n",
-            "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
+            "SHUTDOWN_MSG": "```ruby off aayi ⛔```",
             "DYNO_DESC": "heroku dyno kanaan ",
             "DYNO_TOTAL": "```motham Quota```",
             "DYNO_USED": "```Quota upayogichath```",
@@ -87,7 +87,7 @@
             "INVALID": "```asaathuvaya key:value format```",
             "GETVAR_DESC": "Get heroku config var",
             "DELVAR_DESC": "Delete heroku config var",
-            "DEL_SUCCESS": "```{} vijayagaramaayi delete cheythu```",
+            "DEL_SUCCESS": "```{}  delete aakki```",
             "NOT_FOUND": "```ee keykk result onnum kandethaan aayilla```"           
         },
         "filters": {
@@ -102,12 +102,12 @@
             "DELETED": "*✅ filter vijayagaramaayi delete cheyythu!*"
         },
         "greetings": {
-            "WELCOME_DESC": "welcome message add cheyyum . shoonyamakki vechaal welcome message kaanikkum.",
-            "NOT_SET_WELCOME": "*welcome message set akkeett illa.!*\n**set akkaan:** ```.welcome your welcome message```",
-            "WELCOME_ALREADY_SETTED": "*✅ Welcome message pande set aan!*\n*Message:* ```",
+            "WELCOME_DESC": "welcome message add cheyyum . ruby 😍 welcome message kaanikkum.",
+            "NOT_SET_WELCOME": "*welcome message set alla😑.!*\n**set akkaan:** ```.welcome your welcome message```",
+            "WELCOME_ALREADY_SETTED": "*✅ Welcome message set aan!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*welcome message set akkaan oru message type aakanam mishter.*\n*Example:* ```.welcome WELCOME!```",
-            "WELCOME_DELETED": "*✅ Welcome message vijayagaramaayi delete cheythu!*",
-            "WELCOME_SETTED": "*✅ Welcome message vijayagaramaayi set  aakki!*",
+            "WELCOME_DELETED": "*✅ Ruby yude Welcome message delete cheythu!*",
+            "WELCOME_SETTED": "*✅ Ruby yude Welcome message set  aakki!*",
             "GOODBYE_DESC": "goodbye message add cheyyum . shoonyamakki vechaal goodbye message kaanikkum.",
             "NOT_SET_GOODBYE": "* goodbye message set akkeett illa.!*\n**set akkaan:* ```.goodbye Your Goodbye Message```",
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message set akeedund!*\n*Message:* ```",
@@ -181,30 +181,30 @@
             "CURRENCY_ERROR": "```Syntax thatt aan! Example: .currency 1 TRY USD```",
             "INVALID_CURRENCY": "```Foreign currency transaction failed. thettaaya currency aan thannath!```",
             "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
-            "TTS_DESC": "text shabthathilekk maattunnu.",
-            "TTS_ERROR": "```cheyaaan pattiyilla!```",
+            "TTS_DESC": "Ruby text shabthathilekk maattunnu...💞",
+            "TTS_ERROR": "```Avalkk cheyaaan pattiyilla😕!```",
             "SONG_DESC": "ningal type cheytha paatt upload cheyth therum.",
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
-            "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
-            "DOWNLOADING_SONG": "\npaatt thappunnu 🤗\n",
-            "UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu\n",
+            "NO_RESULT": "*ennikk onnum kandethaan aayilla..sorry :(*",
+            "DOWNLOADING_SONG": "\npaatt thappunnu 🤗 wait cheyyu\n",
+            "UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu..ellam set aakki vecho..🥳\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "\n```Downloading...```\n",
-            "UPLOADING_VIDEO": "\n```Uploading...```\n",
+            "DOWNLOADING_VIDEO": "\n```Ruby download cheyyuva...sidhunte net off allenn urapp varuthu```\n",
+            "UPLOADING_VIDEO": "\n```Iny onnum pedikkenda..upload aakuva💞🙌🏻```\n",
             "YT_DESC": "YouTubeill search cheyyum.",
             "NEED_WORDS": "```search cheyende words type cheyyu!```",
             "GETTING_VIDEOS": "```video link kond verunnu...```",
             "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
-            "SEARCHING": "*🔎 searching...*",
+            "SEARCHING": "*🔎 Njan nokkuva🙈...*",
             "WIKI_DESC": "Wikipedia yill search cheyyaan.",
             "IMG_DESC": "googlil chithram search cheyaan.",
-            "IMG": "chithram upload cheyyunu ```{}``` number ```{} ```..."
+            "IMG": "Ruby chithram upload cheyyunnu..Kanan ready aayikko😜 ```{}``` number ```{} ```..."
         },
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
-            "DOWNLOADING": "```Ippam Sheriyaakithara 🤠```"
+            "DOWNLOADING": "```Set aakkam 😁 vishamikkenda```"
         },
         "system_stats": {
             "ALIVE_DESC": "bot working aano enn ariyan",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*Nan already update aan muthe 😘😝!*",
-            "NEW_UPDATE": "*sophia Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group link:https://chat.whatsapp.com/G90s1pqZwAjJ7SjQzzqiXe  * \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*ruby Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group link:https://chat.whatsapp.com/G90s1pqZwAjJ7SjQzzqiXe  * \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```Update aakikondirikunnu manushyaa🤩😍😘..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Update aaki monuse 😁🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Sophoa Restarting..*"
+            "AFTER_UPDATE": "*😎 Ruby Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
@@ -315,10 +315,10 @@
         "conventer": {
             "MP4TOAUDİO_DESC": "video sound mathram akaan.",
             "MP4TOAUDİO_NEEDREPLY": "*Video reply cheyy macha!*",
-            "MP4TOAUDİO": "```Video Audio aaakki maattunnu..```",
+            "MP4TOAUDİO": "```Video Audio aaakki maattunnu...kanan ready aayikko🤪```",
             "STİCKER_DESC": "sticker photo akaan.",
             "STİCKER_NEEDREPLY": "*Photokk Reply ayitt ayakk*",
-            "STİCKER": "```Converting...```",
+            "STİCKER": "```Sidhu enthye🤔...nthayalum sticker tharam```",
             "XMEDİA_DESC": "25 media tools ulla oru plugin .",
             "T_FALSE": "```❌ thettaaya Blend Effect aan thannath!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 eathellum oru Blend Effects type cheyanam!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -451,7 +451,7 @@
             "AN": "random anime pic ayakkunu."
         },
         "wallpaper": {
-            "WP": "high resolution wallpapers ayakkunnu."
+            "WP": "Sidhu permission thannu ruby ippo wallpaper ayakkum🤗."
         },
         "webss": {
             "SS_DESC": "thanna linkil nin screenshot edth ayach therum.",
